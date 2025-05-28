@@ -35,7 +35,7 @@ Our approach followed Jesse James Garrett's Elements of User Experience. The **S
 
 Three user personas were defined to guide design decisions:
 
-### 👤 Persona 1 – The Busy Learner
+### 👤 Persona 1 
 
 ![UX Persona 1](./Deliverables/UX%20Persona%201.png)
 
@@ -44,7 +44,7 @@ Three user personas were defined to guide design decisions:
 
 ---
 
-### 👤 Persona 2 – The Health Seeker
+### 👤 Persona 2 
 
 ![UX Persona 2](./Deliverables/UX%20Persona%202.png)
 
@@ -53,7 +53,7 @@ Three user personas were defined to guide design decisions:
 
 ---
 
-### 👤 Persona 3 – The Budget-Conscious Cook
+### 👤 Persona 3 
 
 ![UX Persona 3](./Deliverables/UX%20Persona%203.png)
 
@@ -65,12 +65,7 @@ Three user personas were defined to guide design decisions:
 
 The CJM visualizes the user flow from initial app discovery to long-term engagement:
 
-| Phase | Actions | Emotions | Goals |
-|-------|---------|----------|-------|
-| Awareness | Discover app via posters or social media | Curious | Evaluate usefulness |
-| Onboarding | Enter preferences, allergies, time, budget | Motivated | Receive personalized suggestions |
-| Use | Explore recipes, scan products, plan meals | Confident | Improve eating habits |
-| Retention | Save favorites, track meals, reuse plans | Empowered | Maintain consistency |
+![CJM](./Deliverables/CJM.png)
 
 ---
 
@@ -115,7 +110,7 @@ The final UI designs, detailed in [`Avance 1`](./Deliverables/HCI_UX%20Avance%20
 
 ## Team
 
-- **[Danko Torres]** 
+- **[Danko Torres](https://github.com/Dankusufro)** 
 - **[Bastian Lagos]** 
 - **[Ignacio Manriquez]**
   
