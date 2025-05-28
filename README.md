@@ -96,7 +96,7 @@ Low-fidelity wireframes guided our early design thinking and testing:
 - Profile and diet history
 - Barcode scanner and weekly planner
 
-See the full document: [`Wireframes`](./Deliverables/HCI_UX%20Wireframes_lowFi.pdf)
+See the full document: [`Wireframes`](./Deliverables/Wireframes_lowFi.pdf)
 
 ---
 
