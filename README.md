@@ -15,9 +15,9 @@ This UX project was developed for the Human-Computer Interaction (HCI) course an
 - [`Benchmark.pdf`](./Deliverables/Benchmark.pdf): Comparative analysis of 4 key nutrition apps (MyRealFood, GoCoCo, Lifesum, Ekilu).
 - [`CJM.pdf`](./Deliverables/CJM.pdf): Customer Journey Map to visualize the user’s full experience across touchpoints.
 - [`UX Persona 1–3`](./): Three personas developed from research insights representing key user segments.
-- [`HCI_UX Canvas de Valor.pdf`](./Deliverables/HCI_UX%20Canvas%20de%20valor.pdf): Value Proposition Canvas highlighting user pains and gains.
-- [`HCI_UX Wireframes_lowFi.pdf`](./Deliverables/HCI_UX%20Wireframes_lowFi.pdf): Low-fidelity wireframes for onboarding, profile, and meal planning.
-- [`HCI_UX Avance 1.pdf`](./Deliverables/HCI_UX%20Avance%201.pdf): Final high-fidelity mockups showing UI in context.
+- [`Canvas de Valor.pdf`](./Deliverables/ValuePropositionCanvas.pdf): Value Proposition Canvas highlighting user pains and gains.
+- [`Wireframes.pdf`](./Deliverables/Wireframes_lowFi.pdf): Low-fidelity wireframes for onboarding, profile, and meal planning.
+- [`Mockups.pdf`](./Deliverables/HCI_UX%20Avance%201.pdf): Final high-fidelity mockups showing UI in context.
 
 ---
 
