@@ -113,7 +113,7 @@ The final UI designs, detailed in [`Mockups`](./Deliverables/HCI_UX%20Avance%201
 
 ## Authors and acknowledgment
 
-- **[Danko Torres](https://github.com/Dankusufro)**- Designer 
-- **[Bastian Lagos](https://github.com/Bastian-Lagos)**- Designer
-- **[Ignacio Manríquez](https://github.com/lNachox)**- Designer
+- **[Danko Torres](https://github.com/Dankusufro)** - Designer 
+- **[Bastian Lagos](https://github.com/Bastian-Lagos)** - Designer
+- **[Ignacio Manríquez](https://github.com/lNachox)** - Designer
   
