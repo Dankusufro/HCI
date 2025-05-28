@@ -25,6 +25,8 @@ This UX project was developed for the Human-Computer Interaction (HCI) course an
 
 Our approach followed Jesse James Garrett's Elements of User Experience. The **Strategy Plane** helped define both business goals and user needs. Based on our research:
 
+![Canva de valor](./Deliverables/HCI_UX%20Canvas%20de%20valor.png)
+
 - **Users**: Students aged 18–30, living alone, with low budgets and limited time.
 - **User Needs**: Quick recipes, dietary suggestions, ingredient info, and budget management.
 - **Project Goals**: Create an accessible, engaging, and personalized food app to support healthy living.
@@ -73,12 +75,7 @@ The CJM visualizes the user flow from initial app discovery to long-term engagem
 
 We evaluated 4 nutrition-focused applications:
 
-| App | Key Features |
-|-----|--------------|
-| **MyRealFood** | Barcode scanning for food classification and tracking |
-| **GoCoCo** | Nutritional scanning with product categorization |
-| **Lifesum** | Personalized meal plans and macro tracking |
-| **Ekilu** | Filtered recipes, daily progress feedback |
+![BenchMark](./Deliverables/Benchmark.png)
 
 This comparison helped us identify unique value additions for GreenBite like **budget-based filtering** and **scanner-integrated planning**.
 
@@ -93,13 +90,13 @@ Low-fidelity wireframes guided our early design thinking and testing:
 - Profile and diet history
 - Barcode scanner and weekly planner
 
-See the full document: [`HCI_UX Wireframes_lowFi.pdf`](./Deliverables/HCI_UX%20Wireframes_lowFi.pdf)
+See the full document: [`Wireframes`](./Deliverables/HCI_UX%20Wireframes_lowFi.pdf)
 
 ---
 
 ## High-Fidelity Mockups
 
-The final UI designs, detailed in [`Avance 1`](./Deliverables/HCI_UX%20Avance%201.pdf), show the visual language of GreenBite:
+The final UI designs, detailed in [`Mockups`](./Deliverables/HCI_UX%20Avance%201.pdf), show the visual language of GreenBite:
 
 - Consistent color palette and typographic hierarchy
 - Profile customization
