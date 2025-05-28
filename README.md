@@ -13,11 +13,11 @@ This UX project was developed for the Human-Computer Interaction (HCI) course an
 ##  Deliverables
 
 - [`Benchmark.pdf`](./Deliverables/Benchmark.pdf): Comparative analysis of 4 key nutrition apps (MyRealFood, GoCoCo, Lifesum, Ekilu).
-- [`CJM.pdf`](./CJM.pdf): Customer Journey Map to visualize the user’s full experience across touchpoints.
+- [`CJM.pdf`](./Deliverables/CJM.pdf): Customer Journey Map to visualize the user’s full experience across touchpoints.
 - [`UX Persona 1–3`](./): Three personas developed from research insights representing key user segments.
-- [`HCI_UX Canvas de Valor.pdf`](./HCI_UX%20Canvas%20de%20valor.pdf): Value Proposition Canvas highlighting user pains and gains.
-- [`HCI_UX Wireframes_lowFi.pdf`](./HCI_UX%20Wireframes_lowFi.pdf): Low-fidelity wireframes for onboarding, profile, and meal planning.
-- [`HCI_UX Avance 1.pdf`](./HCI_UX%20Avance%201.pdf): Final high-fidelity mockups showing UI in context.
+- [`HCI_UX Canvas de Valor.pdf`](./Deliverables/HCI_UX%20Canvas%20de%20valor.pdf): Value Proposition Canvas highlighting user pains and gains.
+- [`HCI_UX Wireframes_lowFi.pdf`](./Deliverables/HCI_UX%20Wireframes_lowFi.pdf): Low-fidelity wireframes for onboarding, profile, and meal planning.
+- [`HCI_UX Avance 1.pdf`](./Deliverables/HCI_UX%20Avance%201.pdf): Final high-fidelity mockups showing UI in context.
 
 ---
 
@@ -35,10 +35,30 @@ Our approach followed Jesse James Garrett's Elements of User Experience. The **S
 
 Three user personas were defined to guide design decisions:
 
-1. **Busy Learner** – Struggles with time and knowledge for meal planning.
-2. **Health Seeker** – Interested in healthy choices but lacks support tools.
-3. **Low-Budget Cook** – Prioritizes savings while wanting better food options.
+### 👤 Persona 1 – The Busy Learner
 
+![UX Persona 1](./Deliverables/UX%20Persona%201.png)
+
+- Needs help planning meals due to a tight academic schedule.
+- Values quick recipes and automatic planning.
+
+---
+
+### 👤 Persona 2 – The Health Seeker
+
+![UX Persona 2](./Deliverables/UX%20Persona%202.png)
+
+- Wants to improve nutritional habits.
+- Struggles to stay consistent without reminders or support.
+
+---
+
+### 👤 Persona 3 – The Budget-Conscious Cook
+
+![UX Persona 3](./Deliverables/UX%20Persona%203.png)
+
+- Prioritizes affordability and simplicity.
+- Seeks clear recipes and price estimates to avoid overspending.
 ---
 
 ##  Customer Journey Map
@@ -78,13 +98,13 @@ Low-fidelity wireframes guided our early design thinking and testing:
 - Profile and diet history
 - Barcode scanner and weekly planner
 
-See the full document: [`HCI_UX Wireframes_lowFi.pdf`](./HCI_UX%20Wireframes_lowFi.pdf)
+See the full document: [`HCI_UX Wireframes_lowFi.pdf`](./Deliverables/HCI_UX%20Wireframes_lowFi.pdf)
 
 ---
 
 ## High-Fidelity Mockups
 
-The final UI designs, detailed in [`Avance 1`](./HCI_UX%20Avance%201.pdf), show the visual language of GreenBite:
+The final UI designs, detailed in [`Avance 1`](./Deliverables/HCI_UX%20Avance%201.pdf), show the visual language of GreenBite:
 
 - Consistent color palette and typographic hierarchy
 - Profile customization
