@@ -81,6 +81,12 @@ This comparison helped us identify unique value additions for GreenBite like **b
 
 ---
 
+## Structure
+
+![sitemap](./Deliverables/Sitemaps.png)
+
+---
+
 ## Wireframes
 
 Low-fidelity wireframes guided our early design thinking and testing:
