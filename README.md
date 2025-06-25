@@ -18,7 +18,8 @@ This UX project was developed for the Human-Computer Interaction (HCI) course an
 - [`Canvas de Valor.pdf`](./Deliverables/ValuePropositionCanvas.pdf): Value Proposition Canvas highlighting user pains and gains.
 - [`Wireframes.pdf`](./Deliverables/Wireframes_lowFi.pdf): Low-fidelity wireframes for onboarding, profile, and meal planning.
 - [`Mockups.pdf`](./Deliverables/HCI_UX%20Avance%201.pdf): Final high-fidelity mockups showing UI in context.
-- [`Figma`](https://www.figma.com/proto/7dKo8XT4rLlyoobXXDpPdc/HCI-UX-Avance-1?node-id=2-7731&starting-point-node-id=2%3A7731&t=BggC5qyHOZWnGOIy-1): High-fidelity mockups.
+- [`FigmaV1`](https://www.figma.com/design/7dKo8XT4rLlyoobXXDpPdc/HCI-UX-Avance-1?node-id=0-1&p=f&t=lF1nT8AJabolZIFI-0): High-fidelity mockups.
+- [`FigmaV2`](https://www.figma.com/design/7dKo8XT4rLlyoobXXDpPdc/HCI-UX-Avance-1?node-id=211-975&p=f&t=lF1nT8AJabolZIFI-0): High-fidelity mockups.
 
 ---
 
